@@ -1,0 +1,7 @@
+{
+  "name": "15Componentes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
